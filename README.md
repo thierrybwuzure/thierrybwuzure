@@ -29,10 +29,3 @@ while self-studying through freeCodeCamp and Udemy.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thierrybwuzure&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierrybwuzure&layout=compact&hide_border=true" />
-</p>
