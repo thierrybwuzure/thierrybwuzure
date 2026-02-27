@@ -16,9 +16,6 @@ Motivated career-changer building clean, responsive websites.
 Currently in my 1st year of a Frontend Web Dev program at EFP,
 while self-studying through freeCodeCamp and Udemy.
 
-I'm training as a web developer to build e-commerce and web solutions specifically for
-organic farms, producers, and retailers — a sector I know from the inside.
-
 **Currently learning:** JavaScript(ES6+) · PHP · WordPress
 
 ---
