@@ -1,7 +1,7 @@
 <h1 align="center">Thierry Bwuzure</h1>
 
 <p align="center">
-  Frontend Developer in training · EFP Brussels · Open to internship 🇧🇪
+  Frontend Developer in training · EFP Brussels · Intern at the Royal Observatory of Belgium 🇧🇪
 </p>
 
 <p align="center">
